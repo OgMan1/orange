@@ -223,11 +223,11 @@ nav ul li .last {
   color: white;
   margin-top: 0.5em;
   width: 100%;
-  font-size: 1em;
+  font-size: 1.1em;
 }
 .btnAsk:hover {
   background-color: orangered;
-  color: black;
+  color: rgb(62,0,233);
 }
 
 .aboutUs {
@@ -613,11 +613,11 @@ nav ul li .last {
   nav ul li a:active {
     color: rgb(62, 18, 119);
     transition: 0.35s ease;
-    border-left: 0.5em solid rgb(233, 0, 179);
+    border-left: 0.5em solid yellow;
   }
 
   .active {
-    border-left: 0.5em solid rgb(233, 0, 179);
+    border-left: 0.5em solid yellow;
     color: rgb(62, 18, 119);
   }
 
