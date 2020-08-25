@@ -71,6 +71,8 @@ nav ul li .last {
 
 .landingText h3 {
   font-size: 2.05rem;
+  font-weight: bold;
+
 }
 
 .landingText p {
@@ -302,7 +304,7 @@ nav ul li .last {
   top: 0;
   left: 0;
   width: 50%;
-  background: rgba(233, 62, 0, 0.8);
+  background: rgba(233, 62, 0, 0.75);
   height: 100%;
   z-index: -1;
 }
@@ -395,10 +397,10 @@ nav ul li .last {
 .form-control,
 #textarea {
   color: black;
-  border: 1px solid rgb(185, 135, 250);
-  -webkit-box-shadow: 1px 1px 5px -1px rgba(109, 27, 216, 0.75);
-  -moz-box-shadow: 1px 1px 5px -1px rgba(109, 27, 216, 0.75);
-  box-shadow: 1px 1px 5px -1px rgba(109, 27, 216, 0.75);
+  border: 1px solid rgba(86, 24, 255, 0.25);
+  -webkit-box-shadow: 1px 1px 5px -1px rgba(86, 24, 255, 0.65);
+  -moz-box-shadow: 1px 1px 5px -1px rgba(86, 24, 255, 0.65);
+  box-shadow: 1px 1px 5px -1px rgba(86, 24, 255, 0.65);
 }
 
 .iRow img {
@@ -791,7 +793,7 @@ nav ul li .last {
   }
 
   .imgSpace {
-    max-width: 85%;
+    max-width: 90%;
   }
 }
 
