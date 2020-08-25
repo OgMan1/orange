@@ -197,16 +197,17 @@ nav ul li .last {
   font-weight: bolder;
   letter-spacing: 3px;
   border-radius: 0;
-  color: rgb(86, 24, 255);
-  background-color: rgb(0,233,179);
+  background-color: rgb(86, 24, 255);
+  color: white;
+
   margin-top: 0.5em;
 }
 
 .landingText .btnContact:hover,
 .btnForm:hover {
   transition: 0.35s ease-in;
-  background-color: rgb(62,0,233);
-  color: white;
+  color: rgb(86, 24, 255);
+  background-color: rgb(0,233,179);
 }
 
 .btnForm {
