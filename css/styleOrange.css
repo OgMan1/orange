@@ -301,7 +301,7 @@ nav ul li .last {
   top: 0;
   left: 0;
   width: 50%;
-  background: rgba(233, 62, 0, 0.9);
+  background: rgba(233, 62, 0, 0.8);
   height: 100%;
   z-index: -1;
 }
@@ -594,7 +594,7 @@ nav ul li .last {
   }
 
   .navbar {
-    background-color: rgba(0, 0, 0, 0.8) !important;
+    background-color: rgba(0, 0, 0, 0.85) !important;
   }
 
   .nav-item:first-of-type {
@@ -603,7 +603,7 @@ nav ul li .last {
 
   nav ul li a {
     background-color: rgb(0,233,179);
-    color: rgb(62, 18, 119);
+    color: rgb(62,0,233);
     position: relative;
     padding: 0.1em;
     margin: 0.5em 0;
@@ -611,14 +611,14 @@ nav ul li .last {
 
   nav ul li a:hover,
   nav ul li a:active {
-    color: rgb(62, 18, 119);
+    color: rgb(62,0,233);
     transition: 0.35s ease;
-    border-left: 0.5em solid yellow;
+    border-left: 0.5em solid rgb(233, 62, 0);
   }
 
   .active {
-    border-left: 0.5em solid yellow;
-    color: rgb(62, 18, 119);
+    border-left: 0.5em solid rgb(233, 62, 0);
+    color: rgb(62,0,233);
   }
 
   .navbar-brand .logoPic {
