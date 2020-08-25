@@ -131,7 +131,7 @@ nav ul li .last {
   color: rgb(233, 62, 0);
   padding-left: 0.75em;
   transition: 0.4s ease;
-  border-left: 0.5em solid rgba(233, 62, 0, 0.75);
+  border-left: 0.13em solid rgba(0,233,179, 0.75);
 }
 
 .cardRow ul {
